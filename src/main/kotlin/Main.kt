@@ -10,5 +10,7 @@ fun main() {
     Day03.part2()
     Day04.part1()
     Day04.part2()
+    Day05.part1()
+    Day05.part2()
 }
 
