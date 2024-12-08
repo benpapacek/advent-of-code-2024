@@ -16,5 +16,7 @@ fun main() {
     Day06.part2()
     Day07.part1()
     Day07.part2()
+    Day08.part1()
+    Day08.part2()
 }
 
